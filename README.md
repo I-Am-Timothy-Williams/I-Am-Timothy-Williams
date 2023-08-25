@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./github-header-image-1.png)
 <h1 align="center">Hi 👋, I'm Timothy Williams</h1>
 <h3 align="center">A passionate ML Engineer and Data Scientist</h3>
 
