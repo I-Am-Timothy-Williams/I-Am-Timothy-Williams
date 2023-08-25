@@ -1,7 +1,4 @@
 ![Header](./github-header-image-1.png)
-<h1 align="center">Hi 👋, I'm Timothy Williams</h1>
-<h3 align="center">A passionate ML Engineer and Data Scientist</h3>
-
 
 - 🔭 I’m currently working on [Image -> Database Conversion](https://github.com/I-Am-Timothy-Williams/form-conversion)
 
@@ -9,19 +6,11 @@
 
 - 👯 I’m looking to collaborate on [Scoliosis Detection and Progression Prediction](https://github.com/I-Am-Timothy-Williams/scoliosis-detection)
 
-- 🤝 I’m looking for help with [Data Scraping for Workout Suggestions](https://github.com/I-Am-Timothy-Williams/workout-suggestion)
-
-- 👨‍💻 All of my projects are available in [My Github Repositories](https://github.com/I-Am-Timothy-Williams)
-
 - 📝 I regularly write articles on [My Blog](https://timwill001.wixsite.com/ml-with-tim/blog)
-
-- 💬 Ask me about my ML journey.
 
 - 📫 How to reach me timwill001@gmail.com
 
-- 📄 Know about my experiences: [My Resume](https://docs.google.com/document/d/1bCQuAl4iQZGG_fmXKePHPpcQC9JR5wNuWnXHD1vb-UQ/edit?usp=sharing)
-
-- ⚡ Fun fact I sing at my church choir!
+- 📄 Check out my Resume: [My Resume](https://docs.google.com/document/d/1bCQuAl4iQZGG_fmXKePHPpcQC9JR5wNuWnXHD1vb-UQ/edit?usp=sharing)
 
 
 <h3 align="left">Languages and Tools:</h3>
