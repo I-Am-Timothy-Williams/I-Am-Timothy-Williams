@@ -3,8 +3,6 @@
 <h3 align="center">A passionate ML Engineer and Data Scientist</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=i-am-timothy-williams&label=Profile%20views&color=0e75b6&style=flat" alt="i-am-timothy-williams" /> </p>
-
 - 🔭 I’m currently working on [Image -> Database Conversion](https://github.com/I-Am-Timothy-Williams/form-conversion)
 
 - 🌱 I’m currently learning Gradient Boosting using different model types
