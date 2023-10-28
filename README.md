@@ -10,7 +10,7 @@
 
 - 📫 How to reach me timwill001@gmail.com
 
-- 📄 Check out my Resume: [My Resume](https://docs.google.com/document/d/1bCQuAl4iQZGG_fmXKePHPpcQC9JR5wNuWnXHD1vb-UQ/edit?usp=sharing)
+- 📄 Check out my Resume: [My Resume](https://docs.google.com/document/d/1bVWYn2Qekxd-kzUXBHsWlctjhxTbMP1dG9tV6q3WQ6s/edit?usp=sharing)
 
 
 <h3 align="left">Languages and Tools:</h3>
