@@ -6,8 +6,6 @@
 
 - 👯 I’m looking to collaborate on [Scoliosis Detection and Progression Prediction](https://github.com/I-Am-Timothy-Williams/scoliosis-detection)
 
-- 📝 I regularly write articles on [My Blog](https://timwill001.wixsite.com/ml-with-tim/blog)
-
 - 📫 How to reach me timwill001@gmail.com
 
 - 📄 Check out my Resume: [My Resume](https://docs.google.com/document/d/1bVWYn2Qekxd-kzUXBHsWlctjhxTbMP1dG9tV6q3WQ6s/edit?usp=sharing)
